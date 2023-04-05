@@ -21,22 +21,48 @@
     <td valign="top"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
     <td valign="top"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="HTML" title="HTML" /><p></p></td>
     <td valign="top"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
   </tr>
 </table>
 
 <h4>Back-end:</h4>
-NodeJS, Express, Typescript, Testes automatizados com Jest
+<table>
+  <tr>
+    <td valign="top"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+  </tr>
+</table>
 
 <h4>Banco de dados:</h4>
-PostgreSQL, MongoDB, Prisma ORM, Redis
+<table>
+  <tr>
+    <td valign="top"><img src="	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+  </tr>
+</table>
 
 <h4>Ferramentas:</h4>
-Git, Github, Trello, Figma, Render, Vercel, Metodologias ágeis
+<table>
+  <tr>
+    <td valign="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="	https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="	https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+  </tr>
+</table>
 
 ## Atualmente estudando:
 
-<a>Docker e AWS</a>
+<table>
+  <tr>
+    <td valign="top"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+  </tr>
+</table>
 
 <!--
 **CSFernandoHBK/csfernandohbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

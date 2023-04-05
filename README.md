@@ -27,10 +27,10 @@
 <h4>Back-end:</h4>
 <table>
   <tr>
-    <td valign="top"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-js" title="node-js" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" title="express" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" title="typescript" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" title="HTML" /><p></p></td>
   </tr>
 </table>
 
@@ -38,20 +38,20 @@
 <table>
   <tr>
     <td valign="top"><img src="	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" title="HTML" /><p></p></td>
   </tr>
 </table>
 
 <h4>Ferramentas:</h4>
 <table>
   <tr>
-    <td valign="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="	https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="	https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" title="HTML" /><p></p></td>
+    <td valign="top"><img src="	https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" title="HTML" /><p></p></td>
+    <td valign="top"><img src="	https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="render" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" title="HTML" /><p></p></td>
   </tr>
 </table>
 
@@ -59,8 +59,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
-    <td valign="top"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="HTML" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" title="HTML" /><p></p></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" title="HTML" /><p></p></td>
   </tr>
 </table>
 

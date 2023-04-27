@@ -1,9 +1,7 @@
 <h1>Olá, meu nome é Fernando! 🙋‍♂️</h1>
 <h2>💻👨‍💻Full Stack Web Developer</h2>
 
-<p>Desenvolvedor Web Full-Stack com conhecimento de todo o fluxo de uma aplicação, desde a fase de estudo de mercado, planejamento de funcionalidades até o desenvolvimento completo do front-end, back-end e banco de dados. Sempre disposto a aprender novas tecnologias e entrar em novos projetos.</p>
-
-<p>Sou cheio de energia e tenho muita disposição para encarar qualquer desafio. Seja aprender uma nova tecnologia ou iniciar um novo projeto!</p>
+<pSou um desenvolvedor Web Full-Stack entusiasmado, com conhecimento em todas as fases do ciclo de vida de uma aplicação, do planejamento e implementação. Sempre atualizado com as últimas tendências tecnológicas, estou pronto para contribuir para o sucesso de novos projetos com habilidades técnicas aprimoradas e uma abordagem criativa em projetos desafiadores!</p>
 
 ## Onde me encontrar
 
